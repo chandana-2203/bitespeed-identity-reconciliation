@@ -9,25 +9,24 @@ Backend service that links multiple email and phone records belonging to the sam
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
 ![Render](https://img.shields.io/badge/Deployment-Render-purple?logo=render)
 
-
 ### 🌐 Base URL
-
 ```
 https://bitespeed-identity-reconciliation-vf92.onrender.com
 ```
 
 ### 🔌 Identify Endpoint
-
 ```
 POST /identify
 ```
 
 ### 🧪 Try it with Postman
-
 ```
 POST https://bitespeed-identity-reconciliation-vf92.onrender.com/identify
 ```
 
+</div>
+
+---
 
 ## 📌 What This Project Does
 
@@ -109,7 +108,7 @@ the **oldest stays primary**, the other becomes secondary
 
 ## 👩‍💻 Author
 
-Chandana T S  
+**Chandana T S**  
 Computer Science Engineering Student  
 
 GitHub:  
