@@ -105,7 +105,12 @@ https://bitespeed-identity-reconciliation-vf92.onrender.com/identify
 the **oldest stays primary**, the other becomes secondary
 
 ---
+## 📜 License
 
+This project is licensed under **All Rights Reserved**.
+
+Unauthorized copying, modification, or distribution of this code is strictly prohibited.
+---
 ## 👩‍💻 Author
 
 **Chandana T S**  
