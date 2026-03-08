@@ -9,15 +9,25 @@ Backend service that links multiple email and phone records belonging to the sam
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
 ![Render](https://img.shields.io/badge/Deployment-Render-purple?logo=render)
 
-### 🚀 Live API
 
-<a href="https://bitespeed-identity-reconciliation-vf92.onrender.com/identify">
-  <img src="https://img.shields.io/badge/Try%20Live%20API-Click%20Here-brightgreen?style=for-the-badge">
-</a>
+### 🌐 Base URL
 
-</div>
+```
+https://bitespeed-identity-reconciliation-vf92.onrender.com
+```
 
----
+### 🔌 Identify Endpoint
+
+```
+POST /identify
+```
+
+### 🧪 Try it with Postman
+
+```
+POST https://bitespeed-identity-reconciliation-vf92.onrender.com/identify
+```
+
 
 ## 📌 What This Project Does
 
